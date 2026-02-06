@@ -2,7 +2,6 @@
 
 A high-performance, premium QR code generation suite built with **React**, **Vite**, and **Tailwind CSS**. QR Studio Elite offers professional-grade customization, real-time preview, and high-quality vector exports.
 
-![QR-Studio-Elite-Banner](https://images.unsplash.com/photo-1595079676339-1534802ad6cf?auto=format&fit=crop&q=80&w=1200&h=400)
 
 ## ✨ Key Features
 
@@ -73,10 +72,3 @@ QR-Code/
 └── package.json          # Dependencies & Scripts
 ```
 
-## 🔐 Privacy
-
-QR Studio Elite generates QR codes locally in your browser. No destination data or uploaded logos are sent to any external server.
-
-## 📄 License
-
-&copy; 2026 QR Studio Elite. Released under the MIT License.
